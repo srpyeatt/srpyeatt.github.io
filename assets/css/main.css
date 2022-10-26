@@ -287,6 +287,12 @@ input, select, textarea {
 		text-align: right;
 	}
 
+	.align-together {
+		display:inline-block;
+		width:321px;
+		vertical-align: top;
+	}
+
 	input, select, textarea {
 		color: #212931;
 	}
